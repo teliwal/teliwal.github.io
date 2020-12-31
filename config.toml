@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://teliwal.github.io/mySite/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "kale"
