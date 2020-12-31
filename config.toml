@@ -1,0 +1,27 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "kale"
+
+[params.social]
+  Github        = "teliwal"
+  Email         = "diallo.elhadjtelly@gmail.com"
+  Twitter       = "kikalafoulawa"
+  LinkedIn      = "telly-diallo-908a55137"
+
+## Main Menu
+[[menu.main]]
+  name = "articles"
+  weight = 100
+  identifier = "articles"
+  url = "/articles/"
+[[menu.main]]
+  name = "projects"
+  identifier = "projects"
+  weight = 200
+  url = "/projects/"
+[[menu.main]]
+  name = "resume"
+  identifier = "resume"
+  weight = 300
+  url = "/resume/"
