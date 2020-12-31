@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "kale"
+publishDir = "docs"
 
 [params.social]
   Github        = "teliwal"
